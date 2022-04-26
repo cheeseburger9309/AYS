@@ -1,19 +1,40 @@
-#At Your Service
+<h1> At Your Service<h1>
 
-#About Us
-Welcome to At Your Service, your No.1 source for all types of domestic services. We're dedicated to provide you the very best service, with an emphasis on home services, vehicle services, pest control and packers & movers.
+<h2>OUR TEAM:<h2>
+    PRABHASH VARMA BUDDHARAJU
+    SIDDU PUTCHALA
+    SAKETH CHAMALLA
+    VENKATA SAI KASYAP JANNABHATLA
+    AKSHAY PREM JONNALAGADDA
 
-Founded in 2022, At Your Service has come a long way from its beginnings. When we first started out, our passion for providing service drove us to start our own business.
 
-We hope you enjoy our products as much as we enjoy offering them to you.
+ABOUT : At Your Service is a website which provides services like Salon, Packers & Movers, Appliances, Home Cleaning. Users can register through user signup and Employees can register through 
+employee registration. Users can place their orders only after successful login into their account. Users can add their required services to the cart(list of added services will appear in Cart page)
+and they can also place the order from order page. Employees can find the work assigned to them on their pages and after completing the work they will enter the amount that user have to pay. This amount 
+will appear on users page and user can pay amount through online mode.
 
 
-# Our Group members: 
+HOW TO RUN THIS PROJECT :
 
-1. PRABHASH VARMA BUDDHARAJU
-2. SIDDU PUTCHALA
-3. SAKETH CHAMALLA
-4. VENKATA SAI KASYAP JANNABHATLA
-5. AKSHAY PREM JONNALAGADDA
+Download this project zip folder and extract it
 
-# To start website, run code using: nodemon app.js
+Prerequisite: Install Node and nodemon
+
+Please install the following packages:
+npm init
+npm install modules
+npm install ejs 
+npm install express 
+npm install body-parser
+npm install mongoose
+npm install nodemailer
+
+Open Terminal and Execute Following Commands :
+At Your Service : $ nodemon app or node app.js
+Admin portal    : $ nodemon admin or node admin.js
+
+Now enter following URL in Your Browser Installed On Your Pc:
+URL for At Your Service: http://localhost:3000/ 
+URL for Admin portal : http://localhost:3001/
+
+Github repo link : https://github.com/prabhash-varma/AYS
